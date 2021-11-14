@@ -1,0 +1,52 @@
+D:\HK4 2020-2021\MMH - NT219.K21\Đồ án\Đồ án\bin\Debug\Đồ án.exe.config
+D:\HK4 2020-2021\MMH - NT219.K21\Đồ án\Đồ án\bin\Debug\Đồ án.exe
+D:\HK4 2020-2021\MMH - NT219.K21\Đồ án\Đồ án\bin\Debug\Đồ án.pdb
+D:\HK4 2020-2021\MMH - NT219.K21\Đồ án\Đồ án\obj\Debug\Đồ án.csprojAssemblyReference.cache
+D:\HK4 2020-2021\MMH - NT219.K21\Đồ án\Đồ án\obj\Debug\Đồ_án.Check.resources
+D:\HK4 2020-2021\MMH - NT219.K21\Đồ án\Đồ án\obj\Debug\Đồ_án.Login.resources
+D:\HK4 2020-2021\MMH - NT219.K21\Đồ án\Đồ án\obj\Debug\Đồ_án.Properties.Resources.resources
+D:\HK4 2020-2021\MMH - NT219.K21\Đồ án\Đồ án\obj\Debug\Đồ_án.Register.resources
+D:\HK4 2020-2021\MMH - NT219.K21\Đồ án\Đồ án\obj\Debug\Đồ án.csproj.GenerateResource.cache
+D:\HK4 2020-2021\MMH - NT219.K21\Đồ án\Đồ án\obj\Debug\Đồ án.csproj.CoreCompileInputs.cache
+D:\HK4 2020-2021\MMH - NT219.K21\Đồ án\Đồ án\obj\Debug\Đồ án.exe
+D:\HK4 2020-2021\MMH - NT219.K21\Đồ án\Đồ án\obj\Debug\Đồ án.pdb
+C:\Users\leoshin\Downloads\Compressed\Đồ án\Đồ án\bin\Debug\Đồ án.exe.config
+C:\Users\leoshin\Downloads\Compressed\Đồ án\Đồ án\bin\Debug\Đồ án.exe
+C:\Users\leoshin\Downloads\Compressed\Đồ án\Đồ án\bin\Debug\Đồ án.pdb
+C:\Users\leoshin\Downloads\Compressed\Đồ án\Đồ án\obj\Debug\Đồ án.csprojAssemblyReference.cache
+C:\Users\leoshin\Downloads\Compressed\Đồ án\Đồ án\obj\Debug\Đồ_án.Check.resources
+C:\Users\leoshin\Downloads\Compressed\Đồ án\Đồ án\obj\Debug\Đồ_án.Login.resources
+C:\Users\leoshin\Downloads\Compressed\Đồ án\Đồ án\obj\Debug\Đồ_án.Properties.Resources.resources
+C:\Users\leoshin\Downloads\Compressed\Đồ án\Đồ án\obj\Debug\Đồ_án.Register.resources
+C:\Users\leoshin\Downloads\Compressed\Đồ án\Đồ án\obj\Debug\Đồ án.csproj.GenerateResource.cache
+C:\Users\leoshin\Downloads\Compressed\Đồ án\Đồ án\obj\Debug\Đồ án.csproj.CoreCompileInputs.cache
+C:\Users\leoshin\Downloads\Compressed\Đồ án\Đồ án\obj\Debug\Đồ án.exe
+C:\Users\leoshin\Downloads\Compressed\Đồ án\Đồ án\obj\Debug\Đồ án.pdb
+C:\Users\leoshin\Downloads\Compressed\Đồ án\Đồ án\obj\Debug\Đồ_án.RandomPass.resources
+D:\HK4 2020-2021\MMH - NT219.K21\Đồ án\Đồ án\obj\Debug\Đồ_án.RandomPass.resources
+C:\Users\leoshin\Downloads\Compressed\Đồ án-20200622T133436Z-001\Đồ án\Đồ án\obj\Debug\Đồ án.csprojAssemblyReference.cache
+C:\Users\leoshin\Downloads\Compressed\Đồ án-20200622T133436Z-001\Đồ án\Đồ án\obj\Debug\Đồ_án.Check.resources
+C:\Users\leoshin\Downloads\Compressed\Đồ án-20200622T133436Z-001\Đồ án\Đồ án\obj\Debug\Đồ_án.Login.resources
+C:\Users\leoshin\Downloads\Compressed\Đồ án-20200622T133436Z-001\Đồ án\Đồ án\obj\Debug\Đồ_án.Properties.Resources.resources
+C:\Users\leoshin\Downloads\Compressed\Đồ án-20200622T133436Z-001\Đồ án\Đồ án\obj\Debug\Đồ_án.RandomPass.resources
+C:\Users\leoshin\Downloads\Compressed\Đồ án-20200622T133436Z-001\Đồ án\Đồ án\obj\Debug\Đồ_án.Register.resources
+C:\Users\leoshin\Downloads\Compressed\Đồ án-20200622T133436Z-001\Đồ án\Đồ án\obj\Debug\Đồ án.csproj.GenerateResource.cache
+C:\Users\leoshin\Downloads\Compressed\Đồ án-20200622T133436Z-001\Đồ án\Đồ án\obj\Debug\Đồ án.csproj.CoreCompileInputs.cache
+C:\Users\leoshin\Downloads\Compressed\Đồ án-20200622T133436Z-001\Đồ án\Đồ án\obj\Debug\Đồ án.exe
+C:\Users\leoshin\Downloads\Compressed\Đồ án-20200622T133436Z-001\Đồ án\Đồ án\obj\Debug\Đồ án.pdb
+C:\Users\leoshin\Downloads\Compressed\Đồ án-20200622T133436Z-001\Đồ án\Đồ án\bin\Debug\Đồ án.exe.config
+C:\Users\leoshin\Downloads\Compressed\Đồ án-20200622T133436Z-001\Đồ án\Đồ án\bin\Debug\Đồ án.exe
+C:\Users\leoshin\Downloads\Compressed\Đồ án-20200622T133436Z-001\Đồ án\Đồ án\bin\Debug\Đồ án.pdb
+C:\Users\tinho\Desktop\Đồ án\Đồ án\bin\Debug\Đồ án.exe.config
+C:\Users\tinho\Desktop\Đồ án\Đồ án\bin\Debug\Đồ án.exe
+C:\Users\tinho\Desktop\Đồ án\Đồ án\bin\Debug\Đồ án.pdb
+C:\Users\tinho\Desktop\Đồ án\Đồ án\obj\Debug\Đồ án.csprojAssemblyReference.cache
+C:\Users\tinho\Desktop\Đồ án\Đồ án\obj\Debug\Đồ_án.Check.resources
+C:\Users\tinho\Desktop\Đồ án\Đồ án\obj\Debug\Đồ_án.Login.resources
+C:\Users\tinho\Desktop\Đồ án\Đồ án\obj\Debug\Đồ_án.Properties.Resources.resources
+C:\Users\tinho\Desktop\Đồ án\Đồ án\obj\Debug\Đồ_án.RandomPass.resources
+C:\Users\tinho\Desktop\Đồ án\Đồ án\obj\Debug\Đồ_án.Register.resources
+C:\Users\tinho\Desktop\Đồ án\Đồ án\obj\Debug\Đồ án.csproj.GenerateResource.cache
+C:\Users\tinho\Desktop\Đồ án\Đồ án\obj\Debug\Đồ án.csproj.CoreCompileInputs.cache
+C:\Users\tinho\Desktop\Đồ án\Đồ án\obj\Debug\Đồ án.exe
+C:\Users\tinho\Desktop\Đồ án\Đồ án\obj\Debug\Đồ án.pdb
